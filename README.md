@@ -14,8 +14,8 @@ Thanks to Cartopy for allow us to project the migration trajectories into a map.
 
 Graphs:  
 
-- [Direct Plot of GPS trajectories](https://github.com/evimarp/GPS-trajectories/direct_trajectories.pdf)
-- [GPS Trajectories using a cartographic projection](https://github.com/evimarp/GPS-trajectories/cartographic_trajectories.pdf)
-- [Speed Distribution of each bird](https://github.com/evimarp/GPS-trajectories/Speed%20Distributions.pdf)
+- [Direct Plot of GPS trajectories](https://github.com/evimarp/GPS-trajectories/blob/master/direct_trajectories.pdf)
+- [GPS Trajectories using a cartographic projection](https://github.com/evimarp/GPS-trajectories/blob/master/cartographic_trajectories.pdf)
+- [Speed Distribution of each bird](https://github.com/evimarp/GPS-trajectories/blob/master/Speed%20Distributions.pdf)
 
-You can find the code here: [gps_plot.py](https://github.com/evimarp/GPS-trajectories/gps_plot.py)
+You can find the code here: [gps_plot.py](https://github.com/evimarp/GPS-trajectories/blob/master/gps_plot.py)
